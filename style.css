@@ -5,6 +5,13 @@ body{
     margin: 0;
 }
 
+.error-page{
+    background:linear-gradient(0.40turn, #ffffff46, #00000032, #f63c3c34);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    }
+
 .img-padding{
     margin-top: 4rem;
     margin-left: 10rem;
